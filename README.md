@@ -8,3 +8,6 @@ Depth-first search (DFS) is an algorithm for searching a graph or tree data stru
 3.	Create a list of that vertex's adjacent nodes. Add the ones which aren't in the visited list to the top of the stack.
 4.	Keep repeating steps 2 and 3 until the stack is empty.
 
+<H1> OUTPUT </H1>
+
+![image](https://user-images.githubusercontent.com/70971734/152766382-acb9ed09-2d24-4abc-9d73-79d017d1d956.png)
